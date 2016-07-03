@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ghostly loan | v1.3</title>
+	<meta charset="utf-8"/>
+</head>
+<body>
+	<div class="container">
+		<div class="nav">
+			<h2>ghostly loan</h2>
+			<ul>
+				<li><a href="about.html">about</a></li>
+				<li><a href="changelog.html">changelog</a></li>
+				<li><a href="requiredreading.html">required reading</a></li>
+			</ul>
+		</div>
+		<div class="main">
+			<h1>I'm handling it.</h1>
+			<h3>It's harder than it looks.</h3>
+			<p>Let the sentinel sleep not.</p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/xz7591jlrL0" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+</body>
+</html>
